@@ -20,16 +20,12 @@
 
 title: Karkh Bar
 
-email: peixian@space.af
-author: Peixian Wang
+author: Peixian Wang & Zaki Alattar
 
 description: >- # this means to ignore newlines until "baseurl:"
     A blog about Iraq.
 
 url: "http://karkh-bar.com"
-twitter_username: peixianw
-twitter_username: peixianw
-github_username:  peixian
 root: /
 
 # Build settings
